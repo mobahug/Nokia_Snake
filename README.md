@@ -1,4 +1,4 @@
-# The well known Snake game
+# The well known Snake game 🐍
 
 As a side project, during my studies in Hive Helsinki, I made this small snake game, as a practice in Python.
 The game is based on the famous Nokia snake game. You collect food, and each time the snake become one square longer.
