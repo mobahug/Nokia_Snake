@@ -13,4 +13,4 @@ Just clone the repository and run the code.
 
 Have fun!
 
-<img width=180px height=180px src="https://user-images.githubusercontent.com/83179142/149475619-38fb5a14-98fe-4f57-b683-6d14a9b1520f.png"/>
+<img align=center width=500px height=383px src="https://user-images.githubusercontent.com/83179142/149475619-38fb5a14-98fe-4f57-b683-6d14a9b1520f.png"/>
