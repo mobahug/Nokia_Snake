@@ -5,7 +5,8 @@ The game is based on the famous Nokia snake game. You collect food, and each tim
 It also has a relatively fast speed, so it's become harder to collect food as the snake growing
 and the space gets smaller.
 If the snake turns into itself or hit the wall (windows edge) the game is over.
-With arrows can control the snake where to go.
+
+With arrows can control the snake where to go. :arrow_left: :arrow_up: :arrow_down: :arrow_right: 
 
 It's a good and fun small game where with your friends can compete who can reach higher scores.
 
