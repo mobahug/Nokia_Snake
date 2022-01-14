@@ -13,4 +13,4 @@ Just clone the repository and run the code.
 
 Have fun!
 
-[20220114_102218](https://user-images.githubusercontent.com/83179142/149475619-38fb5a14-98fe-4f57-b683-6d14a9b1520f.png)
+<img src=(https://user-images.githubusercontent.com/83179142/149475619-38fb5a14-98fe-4f57-b683-6d14a9b1520f.png)/>
